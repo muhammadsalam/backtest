@@ -1,6 +1,7 @@
 // Массив URL для пинга — добавляй сюда новые ссылки
 const URLS = [
   'https://backtest-1ixo.onrender.com/',
+  'https://backtest-1-nbgx.onrender.com/',
 ];
 
 const PING_INTERVAL = 14 * 60 * 1000; // 14 минут
